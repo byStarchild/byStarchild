@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Rodrigo Augusto</h1>
+<h1 align="center">Olá! Me chamo Rodrigo Augusto</h1>
 <p align="center">🦋 Eu estudo programação pela <a href="https://web.dio.me"><i>Dio</i></a> e planejo seguir alguma carreira nesta área.</p>
 <div>
   <a href="https://github.com/byStarchild">
