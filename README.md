@@ -1,10 +1,13 @@
 <h1 align="center">Olá! Me chamo Rodrigo Augusto</h1>
 <p align="center">🦋 Eu estudo programação pela <a href="https://web.dio.me"><i>Dio</i></a> e planejo seguir alguma carreira nesta área.</p>
+<p align="center">🦋 Seja bem vindo(a) e acompanhe por aqui o meu progesso! :)</p>
+
 <div>
   <a href="https://github.com/byStarchild">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=byStarchild&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byStarchild&layout=compact&langs_count=7&theme=jolly"/>
 </div>
+
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="David-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg">
   <img align="center" alt="David-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
