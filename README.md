@@ -1,5 +1,5 @@
 <h1 align="center">Olá! Eu sou o Rodrigo Augusto</h1>
-<p align="center">🦋 Eu estudo programação pela <a href="https://web.dio.me"><i>Dio</i></a> e planejo ter alguma carreira nesta área.</p>
+<p align="center">🦋 Eu estudo programação pela <a href="https://web.dio.me"><i>Dio</i></a> e planejo seguir alguma carreira nesta área.</p>
 <div>
   <a href="https://github.com/byStarchild">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=byStarchild&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
