@@ -2,7 +2,7 @@
 <p align="center">🦋 Eu estudo programação pela <a href="https://web.dio.me"><i>Dio</i></a> e planejo seguir alguma carreira nesta área.</p>
 <p align="center">🦋 Seja bem vindo(a) e acompanhe por aqui o meu progesso! :)</p>
 
-<div>
+<div align="center">
   <a href="https://github.com/byStarchild">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=byStarchild&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byStarchild&layout=compact&langs_count=7&theme=midnight-purple"/>
